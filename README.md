@@ -1,3 +1,3 @@
 # Hello everybody!
 
-# Šiuo metu mokausi VSC
+## Šiuo metu mokausi VSC
