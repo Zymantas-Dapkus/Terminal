@@ -31,3 +31,6 @@ git commit -m "update message"
 git push
 
 kombinacija ctrl + z - undo
+
+
+nauja info
