@@ -3,4 +3,4 @@
 ## Šiuo metu mokausi VSC
 
 ### Kolkas išmokom greitas kombinacijas, kaip ctrl + y ir ctrl + z.
-### Taip mokomės, kaip sukurti repozitorija per terminalą.
+### Taip pat mokomės, kaip sukurti repozitorija per terminalą.
